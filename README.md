@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Skills
+
+- Programming Languages: JavaScript (on-learning), SQL, Python
+- Data Science: Pandas, NumPy, Matplotlib, Seaborn, Bokeh
+- Web Scraping: BeautifulSoup
+- Scientific Computing & Statistics: SciPy, Statmodels
+
+## Contact
+
+You can reach me at [tienngm2049@gmail.com](mailto:tienngm2049@gmail.com). Let's connect and collaborate!
+
+Happy coding! 🚀
