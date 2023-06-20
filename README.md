@@ -28,5 +28,5 @@ You can reach me at [tienngm2049@gmail.com](mailto:tienngm2049@gmail.com). Let's
 
 Happy coding! 🚀
 
-![tienngm2049's GitHub stats](https://github-readme-stats.vercel.app/api?username=tienngm2049&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tienngm2049&layout=compact)
+![tienngm2049's GitHub stats](https://github-readme-stats.vercel.app/api?username=tienngm2049&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tienngm2049&layout=compact&theme=transparent)
