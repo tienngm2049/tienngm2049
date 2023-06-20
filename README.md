@@ -22,12 +22,6 @@ Here are some ideas to get you started:
 - Web Scraping: BeautifulSoup4
 - Scientific Computing & Statistics: SciPy, Statmodels
 
-## 🌱 Contact
-<p align="center">
-  <a href="https://www.linkedin.com/in/tienngm2049/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:tienngm2049@gmail.com?subject=Hello%20Yuri,%20From%20Your%20Github%20Page"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
 ## ⚡ GitHub Stats
 <table style="border-collapse: separate; border-radius: 10px;">
 <tr>
@@ -38,4 +32,9 @@ Here are some ideas to get you started:
   <td width="50%"><img alt="gif" align="right" src="https://github.com/tienngm2049/tienngm2049/blob/main/github/asset/cat.gif?raw=true"/></td>
 </tr>
 <table>
-
+  
+## 🌱 Contact
+<p align="center">
+  <a href="https://www.linkedin.com/in/tienngm2049/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:tienngm2049@gmail.com?subject=Hello%20Yuri,%20From%20Your%20Github%20Page"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
