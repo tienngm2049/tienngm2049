@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 <table>
 <tr>
   <td width="50%">
-    <img src="https://github-readme-stats.vercel.app/api?username=tienngm2049&show_icons=true&theme=transparent" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tienngm2049&layout=compact&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api?username=tienngm2049&show_icons=true&theme=swift" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tienngm2049&layout=compact&theme=swift" />
   </td>
   <td width="50%"><img alt="gif" align="right" src="https://github.com/tienngm2049/tienngm2049/blob/main/github/asset/cat.gif?raw=true"/></td>
 </tr>
