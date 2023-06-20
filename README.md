@@ -23,15 +23,16 @@ Here are some ideas to get you started:
 - Scientific Computing & Statistics: SciPy, Statmodels
 
 ## ⚡ GitHub Stats
-<table style="border-collapse: separate; border-radius: 10px;">
-<tr>
-  <td width="50%">
-    <img src="https://github-readme-stats.vercel.app/api?username=tienngm2049&show_icons=true&theme=swift" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tienngm2049&layout=compact&theme=swift" />
-  </td>
-  <td width="50%"><img alt="gif" align="right" src="https://github.com/tienngm2049/tienngm2049/blob/main/github/asset/cat.gif?raw=true"/></td>
-</tr>
-<table>
+<div style="border-radius: 10px; overflow: hidden;">
+  <table style="border-collapse: separate; border-radius: 10px;">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=tienngm2049&show_icons=true&theme=swift" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tienngm2049&layout=compact&theme=swift" />
+    </td>
+    <td width="50%"><img alt="gif" align="right" src="https://github.com/tienngm2049/tienngm2049/blob/main/github/asset/cat.gif?raw=true"/></td>
+  </tr>
+  <table>
   
 ## 🌱 Contact me via 
 <p align="left">
