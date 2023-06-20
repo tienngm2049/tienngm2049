@@ -29,7 +29,37 @@ Here are some ideas to get you started:
 </p>
 
 ## ⚡ GitHub Stats
-<table style="border-radius: 10px;">
+<style>
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+td, th {
+  border-bottom: 1px solid #ddd;
+  padding: 8px;
+}
+
+tr:first-child td:first-child {
+  border-top-left-radius: 10px;
+}
+
+tr:first-child td:last-child {
+  border-top-right-radius: 10px;
+}
+
+tr:last-child td:first-child {
+  border-bottom-left-radius: 10px;
+}
+
+tr:last-child td:last-child {
+  border-bottom-right-radius: 10px;
+}
+</style>
+
+<table>
 <tr>
   <td width="50%">
     <img src="https://github-readme-stats.vercel.app/api?username=tienngm2049&show_icons=true&theme=swift" />
@@ -38,3 +68,4 @@ Here are some ideas to get you started:
   <td width="50%"><img alt="gif" align="right" src="https://github.com/tienngm2049/tienngm2049/blob/main/github/asset/cat.gif?raw=true"/></td>
 </tr>
 <table>
+
