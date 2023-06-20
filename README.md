@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - Programming Languages: JavaScript (on-learning), SQL, Python
 - Data Science: Pandas, NumPy, Matplotlib, Seaborn, Bokeh
-- Web Scraping: BeautifulSoup
+- Web Scraping: BeautifulSoup4
 - Scientific Computing & Statistics: SciPy, Statmodels
 
 ## 🌱 Contact
