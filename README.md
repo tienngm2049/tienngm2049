@@ -37,5 +37,3 @@ Happy coding! 🚀
   <td width="52%"><img alt="gif" align="right" src="https://github.com/tienngm2049/tienngm2049/blob/main/github/asset/cat.gif?raw=true"/></td>
 </tr>
 <table>
-![tienngm2049's GitHub stats](https://github-readme-stats.vercel.app/api?username=tienngm2049&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tienngm2049&layout=compact&theme=transparent)
