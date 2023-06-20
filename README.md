@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </p>
 
 ## ⚡ GitHub Stats
-<table>
+<table style="border-radius: 10px;">
 <tr>
   <td width="50%">
     <img src="https://github-readme-stats.vercel.app/api?username=tienngm2049&show_icons=true&theme=swift" />
