@@ -22,6 +22,11 @@ Here are some ideas to get you started:
 - Web Scraping: BeautifulSoup
 - Scientific Computing & Statistics: SciPy, Statmodels
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
+<a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="21px" height="21px"></a>
+<a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></
+<a href="https://pandas.pydata.org/" title="pandas"><img src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" alt="pandas" width="21px" height="21px"></a>
+<a href="https://numpy.org/" title="NumPy"><img src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" alt="NumPy" width="21px" height="21px"></a>
 ## Contact
 
 You can reach me at [tienngm2049@gmail.com](mailto:tienngm2049@gmail.com). Let's connect and collaborate!
