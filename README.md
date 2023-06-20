@@ -29,37 +29,7 @@ Here are some ideas to get you started:
 </p>
 
 ## ⚡ GitHub Stats
-<style>
-table {
-  border-collapse: separate;
-  border-spacing: 0;
-  border-radius: 10px;
-  overflow: hidden;
-}
-
-td, th {
-  border-bottom: 1px solid #ddd;
-  padding: 8px;
-}
-
-tr:first-child td:first-child {
-  border-top-left-radius: 10px;
-}
-
-tr:first-child td:last-child {
-  border-top-right-radius: 10px;
-}
-
-tr:last-child td:first-child {
-  border-bottom-left-radius: 10px;
-}
-
-tr:last-child td:last-child {
-  border-bottom-right-radius: 10px;
-}
-</style>
-
-<table>
+<table style="border-collapse: separate; border-radius: 10px;">
 <tr>
   <td width="50%">
     <img src="https://github-readme-stats.vercel.app/api?username=tienngm2049&show_icons=true&theme=swift" />
