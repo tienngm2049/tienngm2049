@@ -15,20 +15,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Skills
+## 🔭 Skills
 
 - Programming Languages: JavaScript (on-learning), SQL, Python
 - Data Science: Pandas, NumPy, Matplotlib, Seaborn, Bokeh
 - Web Scraping: BeautifulSoup
 - Scientific Computing & Statistics: SciPy, Statmodels
 
-## Contact
+## 🌱 Contact
+<p align="center">
+  <a href="https://www.linkedin.com/in/tienngm2049/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:tienngm2049@gmail.com?subject=Hello%20Yuri,%20From%20Your%20Github%20Page"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-You can reach me at [tienngm2049@gmail.com](mailto:tienngm2049@gmail.com). Let's connect and collaborate!
-
-[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=%23003140&logoColor=white)](https://www.linkedin.com/in/tienngm2049)
-Happy coding! 🚀
-
+## ⚡ GitHub Stats
 <table>
 <tr>
   <td width="50%">
