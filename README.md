@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 You can reach me at [tienngm2049@gmail.com](mailto:tienngm2049@gmail.com). Let's connect and collaborate!
 
+[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=%23003140&logoColor=white)](https://www.linkedin.com/in/tienngm2049)
 Happy coding! 🚀
 
 <table>
