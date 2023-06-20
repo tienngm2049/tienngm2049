@@ -34,8 +34,7 @@ Happy coding! 🚀
     <img src="https://github-readme-stats.vercel.app/api?username=tienngm2049&show_icons=true&theme=transparent" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tienngm2049&layout=compact&theme=transparent" />
   </td>
-  <td width="52%"><img alt="gif" align="right" src="![cat](https://github.com/tienngm2049/tienngm2049/assets/131929681/1ead2080-f007-4f51-a0e9-022b0caefa90)
-"/></td>
+  <td width="52%"><img alt="gif" align="right" src="![cat](https://github.com/tienngm2049/tienngm2049/assets/131929681/1ead2080-f007-4f51-a0e9-022b0caefa90)"/></td>
 </tr>
 <table>
 ![tienngm2049's GitHub stats](https://github-readme-stats.vercel.app/api?username=tienngm2049&show_icons=true&theme=transparent)
