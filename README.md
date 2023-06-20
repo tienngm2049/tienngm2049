@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></
 <a href="https://pandas.pydata.org/" title="pandas"><img src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" alt="pandas" width="21px" height="21px"></a>
 <a href="https://numpy.org/" title="NumPy"><img src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" alt="NumPy" width="21px" height="21px"></a>
+<a href="https://matplotlib.org/" title="Matplotlib"><img src="https://github.com/tienngm2049/tienngm2049/assets/131929681/32a81187-cae3-4ead-bf2e-26863d8c8021" alt="Matplotlib" width="21px" height="21px"></a>
 ## Contact
 
 You can reach me at [tienngm2049@gmail.com](mailto:tienngm2049@gmail.com). Let's connect and collaborate!
