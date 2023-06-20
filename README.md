@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 You can reach me at [tienngm2049@gmail.com](mailto:tienngm2049@gmail.com). Let's connect and collaborate!
 
 Happy coding! 🚀
+![tienngm2049's GitHub stats](https://github-readme-stats.vercel.app/api?username=tienngm2049&show_icons=true&theme=transparent)
