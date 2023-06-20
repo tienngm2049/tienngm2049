@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Tien Nguyen from Vietnam, a passionate data science learner with expertise in Python, SQL, and data analysis. Welcome to my GitHub profile!
 
 <!--
 **tienngm2049/tienngm2049** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
