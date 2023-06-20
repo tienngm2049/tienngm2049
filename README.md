@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Skills
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
-<a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="21px" height="21px"></a>
-<a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
 
 - Programming Languages: JavaScript (on-learning), SQL, Python
 - Data Science: Pandas, NumPy, Matplotlib, Seaborn, Bokeh
