@@ -30,10 +30,10 @@ Happy coding! 🚀
 
 <table>
 <tr>
-  <td width="48%">
+  <td width="50%">
     <img src="https://github-readme-stats.vercel.app/api?username=tienngm2049&show_icons=true&theme=transparent" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tienngm2049&layout=compact&theme=transparent" />
   </td>
-  <td width="52%"><img alt="gif" align="right" src="https://github.com/tienngm2049/tienngm2049/blob/main/github/asset/cat.gif?raw=true"/></td>
+  <td width="50%"><img alt="gif" align="right" src="https://github.com/tienngm2049/tienngm2049/blob/main/github/asset/cat.gif?raw=true"/></td>
 </tr>
 <table>
