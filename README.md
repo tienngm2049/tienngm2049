@@ -4,10 +4,11 @@ I'm Tien Nguyen from Vietnam, a passionate data science learner with expertise i
 ## 🔭 Skills
 
 - Programming Languages: JavaScript (on-learning), SQL, Python
-- Data Science: Pandas, NumPy, Matplotlib, Seaborn, Bokeh
+- Data Science: Pandas, NumPy
 - Web Scraping: BeautifulSoup4
 - Scientific Computing & Statistics: SciPy, Statmodels
 - Modelling: Scikit-learn
+- Visualization: Matplotlib, Seaborn, Plotly & Dash, PowerBI, Tableau
 
 ## ⚡ GitHub Stats
 <table style="border-collapse: separate; border-radius: 10px;">
