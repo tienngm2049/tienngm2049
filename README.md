@@ -23,11 +23,7 @@ I'm Tien Nguyen from Vietnam, a passionate data science learner with expertise i
   
 ## 🌱 Contact me via 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tienngm2049/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:tienngm2049@gmail.com?subject=Hello%20Yuri,%20From%20Your%20Github%20Page" target="_blank">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/tienngm2049/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:tienngm2049@gmail.com?subject=Hello%20Yuri,%20From%20Your%20Github%20Page"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
