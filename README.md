@@ -4,7 +4,7 @@ I'm Tien Nguyen from Vietnam, a passionate data science learner with expertise i
 ## 🔭 Skills
 
 - Programming Languages: SQL, Python
-- Data Science: Pandas, NumPy
+- Data Analysis: Pandas, NumPy
 - Web Scraping: BeautifulSoup4
 - Statistics: SciPy, Statsmodels
 - Machine Learning: Scikit-learn
