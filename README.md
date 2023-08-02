@@ -8,7 +8,7 @@ I'm Tien Nguyen from Vietnam, a passionate data science learner with expertise i
 - Web Scraping: BeautifulSoup4
 - Statistics: SciPy, Statsmodels
 - Machine Learning: Scikit-learn
-- Visualization: Matplotlib, Seaborn, Plotly & Dash
+- Visualization: Matplotlib, Seaborn, Plotly
 - Dashboard: PowerBI, Tableau
 
 ## ⚡ GitHub Stats
