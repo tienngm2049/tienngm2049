@@ -7,7 +7,7 @@ I'm Tien Nguyen from Vietnam, a passionate data science learner with expertise i
 - Data Analysis: Pandas, NumPy
 - Web Scraping: BeautifulSoup4
 - Statistics: SciPy, Statsmodels
-- Machine Learning: Scikit-learn and XGBoost
+- Machine Learning: Scikit-learn
 - Visualization: Matplotlib, Seaborn, Plotly
 - Dashboard: PowerBI, Tableau
 
