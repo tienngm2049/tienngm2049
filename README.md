@@ -10,6 +10,7 @@ I'm Tien Nguyen from Vietnam, a passionate data science learner with expertise i
 - Machine Learning: Scikit-learn
 - Visualization: Matplotlib, Seaborn, Plotly
 - Dashboard: PowerBI, Tableau
+- (On-going learning: HTML, CSS & JavaScript)
 
 ## ⚡ GitHub Stats
 <table style="border-collapse: separate; border-radius: 10px;">
