@@ -3,13 +3,11 @@ I'm Tien Nguyen from Vietnam, a passionate data science learner with expertise i
 
 ## 🔭 Skills
 
-- Programming Languages: SQL, Python
-- Data Analysis: Pandas, NumPy
-- Web Scraping: BeautifulSoup4
-- Statistics: SciPy, Statsmodels, Pingouin
-- Machine Learning: Scikit-learn
-- Visualization: Matplotlib, Seaborn, Plotly
-- Dashboard: PowerBI, Tableau
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,git,postgresql,java,mongodb,docker,vscode,html,css" />
+  </a>
+</p>
 
 ## ⚡ GitHub Stats
 <table style="border-collapse: separate; border-radius: 10px;">
