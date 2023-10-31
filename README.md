@@ -5,7 +5,7 @@ I'm Tien Nguyen from Vietnam, a passionate data science learner with expertise i
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,git,postgresql,java,mongodb,docker,vscode,html,css" />
+    <img src="https://skillicons.dev/icons?i=python,git,postgresql,md,selenium,java,mongodb,docker,vscode,html,css" />
   </a>
 </p>
 
